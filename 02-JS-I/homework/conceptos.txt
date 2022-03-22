@@ -1,0 +1,8 @@
+Que es una variable? Una forma de almacenar un valor para utilizarlo luego, a una variable se le puede asignar un nombre y luego asignarle el valor deseado. Ej var nombre: "Camila"
+Un String es un bloque de texto que se define siempre entre comillas. Ej: "perro", "vaca", "123456"
+Funciones: una vez definido un conjunto de variables las funciones te permiten calcularlas, cambiarlas o desarrollar algo con ella, la estructura de la funcion contiene una palabra clave el nombre de la funcion parentesis y entre llaves el codigo a ejecutar
+Ej de funciones: function nombre() {consol.log ('hola')}
+Argumentos: son los valores que se invocan dentro de una funcion, dentro de los parentesis de la funcion podemos agregar los argumentos que deseemos con una como intermedia y espacio
+Return: la declaracion de retorno es la unica forma de los datos para salir de la funcion. Solo se accede con los mismos a aquello que este fuera de la funcion. Cuando se alcanza este punto se detiene la funcion y se retorna el valor de la misma
+if: es un condicional que sirve para determinar si un argumento es valido o no
+Los valores booleanos son los valores true y falso, o es verdadero o es falso, sirven para definir el resultado de funciones logicas como el if
