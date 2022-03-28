@@ -1,0 +1,3 @@
+el array nos permite apuntar a una coleccion de datos, mientras que las variables nos permite a acceder a un dato, o una cadena, etc
+de esta forma el array nos permite acceder a construir matrices. La primer posicion siempre se inicia en 0 y la ultima posicion de la matriz siempre va a ser igual
+al largo del array menos 1.
