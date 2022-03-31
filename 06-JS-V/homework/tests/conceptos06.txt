@@ -1,0 +1,2 @@
+prototype: forma que tiene una clase para establecer un metodo unico para cada objeto de la clase, de forma de ahorrar espacio en la memoria y no tener que repetir los metodos en cada objeto
+constructors: es un metodo que sirve para crear e inicializar un objeto que pertenece a una clase. Los constructores sirven para compartir metodos.
