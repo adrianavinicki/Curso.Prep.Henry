@@ -1,0 +1,1 @@
+Funciones callbacks: son funciones que figuran dentro de otras funciones como argumentos, y que tienen como fin simplificar la escritura de la funcion final que la utiliza como argumento.
